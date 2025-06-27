@@ -1,0 +1,7 @@
+Python (Google Colab)
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+WordCloud
