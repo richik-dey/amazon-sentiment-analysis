@@ -28,6 +28,9 @@ This project performs **binary sentiment classification** on Amazon product revi
 - Seaborn
 - WordCloud
 
+## Dataset
+https://www.kaggle.com/datasets/sashmindairanga/amazon-reviews-balanced-dataset
+
 ## Author
 
 **Richik Dey**  
