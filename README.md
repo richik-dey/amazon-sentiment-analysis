@@ -1,6 +1,6 @@
 # Amazon Product Reviews Sentiment Analysis Using Machine Learning
 
-This project performs **binary sentiment classification** on Amazon product reviews using machine learning algorithms. It aims to help businesses understand customer satisfaction (positive and negative) by analyzing the textual feedback customer reviews.
+This project performs **binary sentiment classification** on Amazon product reviews using machine learning algorithms. It aims to help businesses understand customer satisfaction (positive or negative) by analyzing the textual feedback customer reviews.
 
 ## Project Overview
 
