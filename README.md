@@ -6,7 +6,7 @@ This project performs **binary sentiment classification** on Amazon product revi
 
 - **Domain:** Natural Language Processing (NLP)
 - **Techniques:** Text Preprocessing, TF-IDF Vectorization, Supervised Machine Learning
-- **Algorithms Used:** Logistic Regression, Naive Bayes, Support Vector Machine, Random Forest, Decision Tree, K-Nearest Neighbor
+- **Algorithms Used:** Logistic Regression, Naive Bayes, Support Vector Machine, Random Forest, Decision Tree, K-Nearest Neighbor (KNN)
 - **Best Accuracy:** Random Forest – 90.37%
 
 ## Workflow
